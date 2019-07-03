@@ -17,7 +17,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": ">=0.18.1",
     "properties-parser": "^0.3.1"
   },
   "devDependencies": {
