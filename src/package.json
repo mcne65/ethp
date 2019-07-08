@@ -1,6 +1,6 @@
 {
   "name": "ethp",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "Node.js app that displays the current price of Ethereum. This app uses the Etherscan API",
   "main": "app.js",
   "scripts": {
